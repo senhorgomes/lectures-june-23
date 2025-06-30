@@ -1,0 +1,14 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "## Today's menu",
+  "main": "addTwo.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Bryan Gomes",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
